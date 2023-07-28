@@ -1,0 +1,10 @@
+.table {
+	border-collapse: collapse;
+}
+
+.activeRow {
+	background-color: gray;
+	pointer-events: none;
+
+	color: white;
+}
