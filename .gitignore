@@ -23,5 +23,8 @@ node_modules
 # Testing
 coverage
 
+# Production
+dist
+
 # Miscellaneous
 *.local
